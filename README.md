@@ -1,7 +1,7 @@
 # Real Chain Web App
 Sunny Yadav IIIT Dharwad
 
-## Technology Stack & Tools
+## Tools Used:
 
 - Solidity (Writing Smart Contracts & Tests)
 - Javascript (React & Testing)
